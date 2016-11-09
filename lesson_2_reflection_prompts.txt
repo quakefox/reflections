@@ -1,4 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
+?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -11,8 +12,11 @@ Always add the files for the single logical change to the staging, commit and th
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Trying out new ideas, or localize to a different langauge. Branch keep the implementation separated from the master.
 
 How do the diagrams help you visualize the branch structure?
+It has simbols showing the 
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
